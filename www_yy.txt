@@ -1,0 +1,5 @@
+echo "hello girl!"
+
+var 5555 = 666666;
+
+while {};
