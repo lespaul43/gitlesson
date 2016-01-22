@@ -1,2 +1,5 @@
 print ("Hello world?")
-print ("Hello www!")
+
+my name is Nick
+
+ccc del
